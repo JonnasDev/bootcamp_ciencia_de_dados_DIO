@@ -1,0 +1,24 @@
+algoritmo: "operações matematicas"
+
+var
+   	numero1: inteiro
+   	numero2: inteiro
+   	somar: inteiro
+	subtrair: inteiro
+	multiplicar: inteiro
+	dividir: real
+
+inicio
+	escreva ("digite um numero inteiro: ")
+	leia (numero1)
+	escreva ("digite outro numero inteiro: ")
+	leia (numero2)
+		somar := numero1 + numero2
+		subtrair := numero1 - numero2
+		multiplicar := numero1 * numero2
+		dividir := numero1 / numero2
+			escreva ("soma :", somar)
+			escreva ("subtração :", subtrair)
+			escreva ("multiplicação :", multiplicar)
+			escreva ("divisão :", dividir)
+fimalgoritmo

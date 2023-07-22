@@ -1,0 +1,7 @@
+Programar um robo amigavel q seja capaz de realizar tarefas domesticas.
+
+01- Entender o problema
+02- Entender como vai ser o passo a passo para realizar a resolução do problema
+03- Criar o Algoritmo=
+
+o robo deve primeiro fazer um  reconhecimento da casa, depois ele deve identificar qual lampada esta quebrada, apos isso ele deve pegar uma lampada nova e uma escada, ele deve levar a escada para baixo da lampada que ele tem que trocar. Agora ele deve subir na escada, tirar a lampada quebrada, colocar a lampada nova, descer da escada, recolher a escada e depois deixar a escada onde ela fica guardada e por a lampada quebrada no lixo eletronico, encerrando sua tarefa, se na casa não tiver lixo eletronico separado, ele deve por a lampada quebrada dentro de uma sacola e deixala em cima da pia.
